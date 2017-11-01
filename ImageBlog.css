@@ -1,0 +1,18 @@
+.icon-lg{
+  font-size: 30px;
+  margin-right: 5px;
+}
+.icon-sm{
+  font-size: 16px;
+  margin-right: 2px;
+}
+body{
+  padding-top: 70px;
+  /*for nav bar*/
+}
+.color-darkblue{
+  color: #050820!important;
+}
+.bg-darkblue{
+  background-color: #050820!important;
+}
